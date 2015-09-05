@@ -10,6 +10,7 @@ gem 'sass-rails', '~> 5.0'
 gem "paperclip", "~> 4.3"
 gem 'aws-sdk', '~> 1.6'
 gem "figaro"
+gem 'devise'
 
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
