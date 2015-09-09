@@ -15,6 +15,7 @@
             <% if listing.user %>
               <p><%= "Sold by #{listing.user.name}" %></p>
             <% end %>
+            <%= link_to 'Show', listing, class: "btn btn-link" %>
           </div>
         </div>
       </div>
