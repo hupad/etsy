@@ -11,6 +11,7 @@ gem "paperclip", "~> 4.3"
 gem 'aws-sdk', '~> 1.6'
 gem "figaro"
 gem 'devise'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
